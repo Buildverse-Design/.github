@@ -74,10 +74,33 @@ We combine proven and cutting-edge technology to build at scale:
 
 ---
 
-## 🧑‍💻 People of Buildverse
+## 🧑‍💻 People
 
-| [![youknowom](https://github.com/youknowom.png?size=80)](https://github.com/youknowom)<br>**youknowom** <br>*Founder & Admin* |
-|:-------------------------------------------------------------------------------------------------------------:|
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/youknowom">
+          <img src="https://github.com/youknowom.png?size=80" width="70" height="70" style="border-radius: 50%;" /><br/>
+          <sub><b>youknowom</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/alice">
+          <img src="https://github.com/alice.png?size=80" width="70" height="70" style="border-radius: 50%;" /><br/>
+          <sub><b>alice</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/bob">
+          <img src="https://github.com/bob.png?size=80" width="70" height="70" style="border-radius: 50%;" /><br/>
+          <sub><b>bob</b></sub>
+        </a>
+      </td>
+      <!-- Add more members below by copying a <td>...</td> block -->
+    </tr>
+  </table>
+</div>
 
 …and many more amazing contributors!
 
